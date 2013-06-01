@@ -1,6 +1,6 @@
 <?php
 /**
- * @author ºüÀê<foxis@qq.com>
+ * @author ç‹ç‹¸<foxis@qq.com>
  * @version $Id$
  */
 
